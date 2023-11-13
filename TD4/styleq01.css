@@ -1,0 +1,79 @@
+/*
+one piece :
+#4AA4BA bleu
+#AE7558 brun
+#E18474 rouge
+#E0BF81 jaune
+#586359 gris foncé
+#CEECF8 bleu clair
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: justify;
+}
+
+section {
+  background-color: #586359;
+}
+
+article {
+  background-color: silver;
+}
+
+h1 {
+  color: white;
+  font-weight: lighter;
+  margin: 0%;
+  padding: 50px;
+}
+
+section > h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+section > div p {
+  font-style: italic;
+}
+
+article h1 {
+  color: black;
+  background-color: #586359;
+}
+
+article div p {
+  font-variant: small-caps;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+div {
+  background-color: #e0bf81;
+  margin: 10px;
+  padding: 10px;
+}
+
+p,
+figure {
+  background-color: #e18474;
+  min-height: 100px;
+}
+
+figcaption {
+  color: black;
+  text-align: center;
+}
+figure {
+  max-width: 400px;
+  margin: 0px auto;
+  padding: 10px;
+  text-align: center;
+}
+img {
+  border-radius: 50px;
+  border: 5px solid white;
+}
+
+footer {
+  background-color: #c35b25;
+}

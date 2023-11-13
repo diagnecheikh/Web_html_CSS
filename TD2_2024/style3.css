@@ -1,0 +1,7 @@
+table,thead, th, td {
+    border: 1px solid ;
+}
+caption {
+    color: hwb(27 6% 5%);
+}
+

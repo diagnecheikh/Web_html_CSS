@@ -1,0 +1,31 @@
+section > h1 {
+  background-color: #305050;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+section,
+article {
+  background-color: #305050;
+}
+p {
+  background-color: blanchedalmond;
+}
+article > h1 {
+  background-color: silver;
+  color: white;
+}
+section > div {
+  background-color: #e0bf81;
+}
+article > div {
+  background-color: #e0bf81;
+}
+article {
+  background-color: silver;
+}
+figure {
+  background-repeat: no-repeat;
+  background-color: #e18474;
+}

@@ -1,0 +1,28 @@
+section > h1 {
+  background-color: #305050;
+  color: white;
+}
+section,
+article {
+  background-color: #305050;
+}
+p {
+  background-color: #e18474;
+}
+article > h1 {
+  background-color: silver;
+  color: white;
+}
+section > div {
+  background-color: #e0bf81;
+}
+article > div {
+  background-color: #e0bf81;
+}
+article {
+  background-color: silver;
+}
+figure {
+  background-repeat: no-repeat;
+  background-color: #e18474;
+}
